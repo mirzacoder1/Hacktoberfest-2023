@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "AND.C": "cpp",
+        "POINTERS.C": "cpp",
+        "stdio.h": "c",
+        "iostream": "cpp",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.mouseWheelZoom": true,
+    "git.ignoreLimitWarning": true
+}
